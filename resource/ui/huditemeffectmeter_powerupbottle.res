@@ -5,10 +5,8 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r86"	[$WIN32]
-		"ypos"			"r102"	[$WIN32]
-		"xpos_minmode"	"r70"	[$WIN32]
-		"ypos_minmode"	"r130"	[$WIN32]
+		"xpos"			"c87"
+		"ypos"			"r52"
 		"wide"			"100"
 		"tall"			"60"
 		"MeterFG"		"White"
@@ -39,14 +37,10 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"ItemEffectIcon"
 		"xpos"			"12"
-		"xpos_minmode"	"36"
 		"ypos"			"7"
-		"ypos_minmode"	"14"
 		"zpos"			"1"
 		"wide"			"27"
-		"wide_minmode"	"20"
 		"tall"			"27"
-		"tall_minmode"	"20"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/ico_powerup_critboost_red"
@@ -64,8 +58,8 @@
 		"tall"					"25"
 		"autoResize"			"1"
 		"pinCorner"				"2"
-		"visible"				"1"
-		"enabled"				"1"
+		"visible"				"0"
+		"enabled"				"0"
 		"tabPosition"			"0"
 		"labelText"				"#TF_Ball"
 		"textAlignment"			"north"
@@ -99,9 +93,7 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
 		"xpos"					"24"
-		"xpos_minmode"			"40"
 		"ypos"					"11"
-		"ypos_minmode"			"18"
 		"zpos"					"2"
 		"wide"					"40"
 		"tall"					"20"	
@@ -113,7 +105,7 @@
 		"textAlignment"			"north"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"HudFontMedium"
-		"font_minmode"			"HudFontMediumSmall"
+		"fgcolor"				"Garm3nHUDWhite"
+		"font"					"Garm3nFont24Shadow"
 	}
 }

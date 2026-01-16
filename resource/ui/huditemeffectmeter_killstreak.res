@@ -90,7 +90,7 @@
 		"textAlignment"			"north"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"HudFontMedium"
-		"fgcolor"				"White"
+		"font"					"Garm3nFont24Shadow"
+		"fgcolor"				"Garm3nHUDWhite"
 	}
 }

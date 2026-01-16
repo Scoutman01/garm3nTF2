@@ -1501,6 +1501,19 @@ Scheme
 			}
 		}
 
+		"Garm3nFont24Shadow"
+		{
+			"1"
+			{
+				"name"		"TF2 Build"
+				"tall"		"24"
+				"weight"		"0"
+				"additive"		"0"
+				"antialias"	"1"
+				"dropshadow"	"1"
+			}
+		}
+
 		"Garm3nFontNormal"
 		{
 			"1"
