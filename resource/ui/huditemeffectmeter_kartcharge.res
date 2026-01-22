@@ -71,7 +71,7 @@
 		"textAlignment"			"Center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"HudFontSmallBold"
+		"font"					"Garm3nFontSmallestShadow"
 	}
 	
 	"ItemEffectMeterBG"
