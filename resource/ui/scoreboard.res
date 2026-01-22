@@ -1950,12 +1950,12 @@
 
 		if_mvm
 		{
-			"xpos"	"435"
-			"ypos"	"r102"
-			"wide"	"145"
-			"tall"	"20"
-			"font"          "ScoreboardMedium"
-			"fgcolor"       "236 227 203 255"
+			"xpos"				"c-25"
+			"ypos"				"60"
+			"wide"				"170"
+			"tall"				"20"
+			"font"				"ScoreboardVerySmall"
+			"fgcolor"			"tanlight"
 		}
 	}
 

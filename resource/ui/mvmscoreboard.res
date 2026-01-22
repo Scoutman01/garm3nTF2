@@ -17,16 +17,16 @@
 	
 	"PopFileLabel"
 	{
-		"ControlName"		"CExLabel"
-		"fieldName"			"PopFileLabel"
-		"font"				"ScoreboardVerySmall"
-		"labelText"			"%popfile%"
-		"textAlignment"		"East"
-		"xpos"				"-30"
-		"ypos"				"60"
-		"wide"				"600"
-		"tall"				"20"
-		"fgcolor"			"tanlight"
+		"ControlName"	"CExLabel"
+		"fieldName"		"PopFileLabel"
+		"font"			"ScoreboardMedium"
+		"labelText"		"%popfile%"
+		"textAlignment"	"east"
+		"xpos"			"290"
+		"ypos"			"375"
+		"wide"			"290"
+		"tall"			"20"
+		"fgcolor"		"tanlight"
 	}
 
 	"DifficultyContainer"
