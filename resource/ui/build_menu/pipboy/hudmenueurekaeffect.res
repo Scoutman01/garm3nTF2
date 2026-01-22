@@ -9,13 +9,45 @@
 		"zpos"			"0"
 		"wide"			"250"
 		"tall"			"170"
-		"visible"		"0"
+		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"	
-		"icon"			"hud_menu_bg"
-		"iconColor"		"255 255 255 255"
+		"paintbackground" "0"
 	}
-	
+
+	"ItemBackground"
+	{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"ItemBackground"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"-2"
+		"wide"			"250"
+		"tall"			"180"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"	
+		"image"			"pipboy_overlay"
+		"tileImage"		"1"
+		"drawcolor"		"192 192 192 255"
+	}
+	"BackgroundEngineer"
+	{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"BackgroundEngineer"
+		"xpos"			"205"
+		"ypos"			"140"
+		"zpos"			"-1"
+		"wide"			"40"
+		"tall"			"40"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"	
+		"image"			"pipboy_engineer"
+		"tileImage"		"0"
+		"tileVertically" "0"
+	}
+
 	"BuildIcon"	
 	{
 		"ControlName"	"CIconPanel"
@@ -29,30 +61,14 @@
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"ico_build"
-		"iconColor"		"255 255 255 255"
-	}
-	
-	"BuildIconShadow"	
-	{
-		"ControlName"	"CIconPanel"
-		"fieldName"		"BuildIconShadow"
-		"xpos"			"16"
-		"ypos"			"-7"
-		"zpos"			"0"
-		"wide"			"0"
-		"tall"			"48"
-		"visible"		"1"
-		"enabled"		"1"
-		"scaleImage"	"1"	
-		"icon"			"ico_build"
-		"iconColor"		"0 0 0 255"
+		"iconColor"		"0 255 0 255"
 	}
 	
 	"TitleLabel"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"Garm3nFontSmallShadow"
+		"font"			"Garm3nFontSmall"
 		"xpos"			"88"			// align me to the left edge of the first selection
 		"ypos"			"8"
 		"zpos"			"2"
@@ -64,9 +80,9 @@
 		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Teleport_Title"
 		"textAlignment"	"Left"
-		"fgcolor"	"Garm3nHUDGray"
 		"dulltext"		"0"
 		"brighttext"	"0"
+		"fgcolor"		"0 255 0 255"
 	}
 	
 	"CancelLabel"
@@ -77,7 +93,7 @@
 		"xpos"			"35"
 		"ypos"			"35"
 		"zpos"			"1"
-		"wide"			"0"
+		"wide"			"200"
 		"tall"			"13"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -87,6 +103,7 @@
 		"textAlignment"	"East"
 		"dulltext"		"0"
 		"brighttext"	"0"
+		"fgcolor"		"0 255 0 255"
 	}
 	
 	"available_target_1"
