@@ -86,10 +86,10 @@
 			"visible"		"0"
 		}
 	}
-	"BlueTeamLabel"
+	"BlueTeamLabels"
 	{
 		"ControlName"	"CExLabel"
-		"fieldName"		"BlueTeamLabel"
+		"fieldName"		"BlueTeamLabels"
 		"font"			"Garm3nFontSmallest"
 		"labelText"		"%blueteamname%"
 		"fgcolor"		"Garm3nHUDWhite"
@@ -196,10 +196,10 @@
 			"visible"		"0"
 		}
 	}							
-	"RedTeamLabel"
+	"RedTeamLabels"
 	{
 		"ControlName"	"CExLabel"
-		"fieldName"		"RedTeamLabel"
+		"fieldName"		"RedTeamLabels"
 		"font"			"Garm3nFontSmallest"
 		"labelText"		"%redteamname%"
 		"fgcolor"		"Garm3nHUDWhite"
