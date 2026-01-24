@@ -83,12 +83,6 @@
 		"fgcolor"			"Garm3nHUDWhite"
 		"font_hidef"	"HudFontSmall"
 		"font_lodef"	"HudFontSmall"
-		
-		if_match
-		{
-			"xpos"			"39"
-			"ypos"			"28"
-		}
 	}			
 	"WaitingForPlayersBG"
 	{
@@ -140,12 +134,6 @@
 		"fgcolor"			"Garm3nHUDWhite"
 		"font_hidef"	"HudFontSmall"
 		"font_lodef"	"HudFontSmall"
-		
-		if_match
-		{
-			"xpos"			"39"
-			"ypos"			"28"
-		}
 	}			
 	"OvertimeBG"
 	{
@@ -196,12 +184,6 @@
 		"fgcolor"			"Garm3nHUDWhite"
 		"font_hidef"	"HudFontSmall"
 		"font_lodef"	"HudFontSmall"
-		
-		if_match
-		{
-			"xpos"			"39"
-			"ypos"			"28"
-		}
 	}			
 	"SuddenDeathBG"
 	{
@@ -252,12 +234,6 @@
 		"fgcolor"			"Garm3nHUDWhite"
 		"font_hidef"	"HudFontSmall"
 		"font_lodef"	"HudFontSmall"
-		
-		if_match
-		{
-			"xpos"			"39"
-			"ypos"			"28"
-		}
 	}	
 	"SetupBG"
 	{
@@ -302,12 +278,6 @@
 		"fgcolor"			"Garm3nHUDWhite"
 		"font_hidef"	"HudFontSmall"
 		"font_lodef"	"HudFontSmall"
-		
-		if_match
-		{
-			"xpos"			"39"
-			"ypos"			"28"
-		}
 	}
 	"ServerTimeLimitLabelBG"
 	{
