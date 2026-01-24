@@ -12,12 +12,13 @@
 		"enabled"			"1"
 		"tabPosition"				"0"
 		"medal_width"				"12"
-		"avatar_width"				"55"
+		"medal_column_width"		"12"
+		"avatar_width"				"28"
 		"spacer"					"2"
-		"name_width"				"85"
+		"name_width"				"118"
 		"nemesis_width"				"15"
 		"class_width"				"15"
-		"score_width"				"20"
+		"score_width"				"25"
 		"ping_width"				"20"
 		"killstreak_width"			"16"
 		"killstreak_image_width"	"12"
@@ -353,7 +354,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"autoresize"	"3"
-		"linespacing"	"13"	
+		"linespacing"	"13"
+		"linegap"		"0"
 		"fgcolor"		"blue"
 
 		if_mvm
@@ -377,6 +379,7 @@
 		"enabled"		"1"
 		"autoresize"	"3"
 		"linespacing"	"13"
+		"linegap"		"0"
 		"textcolor"		"red"
 
 		if_mvm
