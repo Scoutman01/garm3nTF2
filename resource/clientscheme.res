@@ -30,6 +30,8 @@ Scheme
 		"Garm3nHUDWhite"			"255 255 255 255"
 		"Garm3nHUDxHair"			"0 255 0 255"
 		"Garm3nHUDYellow"		"255 255 0 255"
+		"Garm3nHUDBlueBackground"	"0 115 255 100"
+		"Garm3nHUDRedBackground"	"255 0 0 100"
 		
 		"Orange"			"178 82 22 255"
 		"OrangeDim"			"178 82 22 120"

@@ -685,8 +685,8 @@
 
 		"TextFont"		"Default"
 
-		"TeamBlue"		"Garm3nHUDDarkBlue"
-		"TeamRed"		"Garm3nHUDRed"
+		"TeamBlue"		"HUDBlueTeamSolid" // Garm3nHUDDarkBlue
+		"TeamRed"		"HUDRedTeamSolid" // Garm3nHUDRed
 		"IconColor"		"Garm3nHUDWhite"
 		"LocalPlayerColor"	"Garm3nHUDBlack"
 

@@ -32,37 +32,43 @@
 		
 		"BlueScoreBG2"
 		{
-			"ControlName"		"ImagePanel"
+			"ControlName"		"CTFImagePanel"
 			"fieldName"		"BlueScoreBG2"
 			"xpos"			"c-105"
 			"ypos"			"r60"
 			"zpos"			"2"
 			"wide"			"105"
 			"tall"			"18"
-			"autoResize"	"0"
-			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"tabPosition"	"0"	
-			"fillcolor"		"0 115 255 100"
-			"PaintBackgroundType"	"0"
+			"image"			"../hud/score_panel_blue_bg"
+			"scaleImage"		"1"
+
+			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_width"		"23"
+			
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"
 		}
 		"RedScoreBG2"
 		{
-			"ControlName"		"ImagePanel"
+			"ControlName"		"CTFImagePanel"
 			"fieldName"		"RedScoreBG2"
 			"xpos"			"c0"
 			"ypos"			"r60"
 			"zpos"			"2"
 			"wide"			"105"
 			"tall"			"18"
-			"autoResize"	"0"
-			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"tabPosition"	"0"	
-			"fillcolor"		"255 0 0 100"
-			"PaintBackgroundType"	"0"
+			"image"			"../hud/score_panel_red_bg"
+			"scaleImage"		"1"
+
+			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_width"		"23"
+			
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"
 		}
 		"BlueTeamLabel"
 		{

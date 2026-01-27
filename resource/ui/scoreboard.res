@@ -65,7 +65,7 @@
 	}
 	"BlueBG"
 	{
-		"ControlName"	"ImagePanel"
+		"ControlName"	"CTFImagePanel"
 		"fieldName"		"BlueBG"
 		"xpos"			"c-243"
 		"xpos_minmode"		"10"
@@ -76,11 +76,18 @@
 		"wide_minmode"		"247"
 		"tall"			"34"
 		"tall_minmode"		"34"
-		"fillcolor"		"0 115 255 100"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+		"image"			"../hud/score_panel_blue_bg"
+		"scaleImage"		"1"
+
+		"src_corner_height"		"23"
+		"src_corner_width"		"23"
+		
+		"draw_corner_width"		"0"
+		"draw_corner_height" 	"0"
 
 		if_mvm
 		{
@@ -175,7 +182,7 @@
 	}
 	"RedBG"
 	{
-		"ControlName"	"ImagePanel"
+		"ControlName"	"CTFImagePanel"
 		"fieldName"		"RedBG"
 		"xpos"			"c0"
 		"xpos_minmode"		"10"
@@ -186,11 +193,18 @@
 		"wide_minmode"		"247"
 		"tall"			"34"
 		"tall_minmode"		"34"
-		"fillcolor"		"255 0 0 100"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+		"image"			"../hud/score_panel_red_bg"
+		"scaleImage"		"1"
+
+		"src_corner_height"		"23"
+		"src_corner_width"		"23"
+			
+		"draw_corner_width"		"0"
+		"draw_corner_height" 	"0"
 
 		if_mvm
 		{
