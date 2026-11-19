@@ -685,13 +685,13 @@
 
 		"TextFont"		"Default"
 
-		"TeamBlue"		"HUDBlueTeamSolid" // Garm3nHUDDarkBlue
-		"TeamRed"		"HUDRedTeamSolid" // Garm3nHUDRed
+		"TeamBlue"		"HUDBlueTeamSolid" // 72 107 141 255
+		"TeamRed"		"HUDRedTeamSolid" // 189 55 56 255
 		"IconColor"		"Garm3nHUDWhite"
 		"LocalPlayerColor"	"Garm3nHUDBlack"
 
-		"BaseBackgroundColor"	"Garm3nHUDBlack"
-		"LocalBackgroundColor"	"Garm3nHUDWhite"
+		"BaseBackgroundColor"	"0 0 0 220"
+		"LocalBackgroundColor"	"255 255 255 200"
 	}
 
 	HudVehicle
