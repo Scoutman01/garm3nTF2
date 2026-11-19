@@ -26,8 +26,8 @@
 		"enabled"		"1"
 		"textAlignment"	"east"	
 		"labelText"		"%bluescore%"
-		"font"			"HudFontMediumBold"
-		"fgcolor"		"Garm3nHUDWhite" // HUDBlueTeamSolid
+		"font"			"Garm3nFontBigShadow"
+		"fgcolor"		"101 121 140 255"
 	}	
 		
 	"BlueScoreShadow"
@@ -39,8 +39,8 @@
 		"zpos"			"7"
 		"wide"			"80"
 		"tall"			"35"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"textAlignment"	"east"	
 		"labelText"		"%bluescore%"
 		"font"			"HudFontMediumBold"
@@ -64,8 +64,8 @@
 		"enabled"		"1"
 		"textAlignment"	"west"	
 		"labelText"		"%redscore%"
-		"font"			"HudFontMediumBold"
-		"fgcolor"		"Garm3nHUDWhite"	// HUDRedTeamSolid
+		"font"			"Garm3nFontBigShadow"
+		"fgcolor"		"162 61 60 255"
 	}	
 		
 	"RedScoreShadow"
@@ -77,8 +77,8 @@
 		"zpos"			"7"
 		"wide"			"80"
 		"tall"			"35"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"textAlignment"	"west"	
 		"labelText"		"%redscore%"
 		"font"			"HudFontMediumBold"

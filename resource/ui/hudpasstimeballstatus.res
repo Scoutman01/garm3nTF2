@@ -18,7 +18,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"EventTitleLabel"
 		"dropshadow"	"1"
-		"font"			"HudFontBiggerBold"
+		"font"			"Garm3nFontBigShadow"
 		"xpos"			"0"
 		"ypos"			"c-130"
 		"zpos"			"3"
@@ -35,7 +35,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"EventBonusLabel"
-		"font"			"HudFontMediumSmallBold"
+		"font"			"Garm3nFontMenuSmall"
 		"dropshadow"	"1"
 		"xpos"			"0"
 		"ypos"			"0"
@@ -57,7 +57,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"EventDetailLabel"
-		"font"			"HudFontMediumSmallBold"
+		"font"			"Garm3nFontMenuSmall"
 		"dropshadow"	"1"
 		"xpos"			"0"
 		"ypos"			"0"
