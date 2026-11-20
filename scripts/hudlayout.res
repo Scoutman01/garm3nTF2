@@ -685,13 +685,13 @@
 
 		"TextFont"		"Default"
 
-		"TeamBlue"		"HUDBlueTeamSolid" // 72 107 141 255
-		"TeamRed"		"HUDRedTeamSolid" // 189 55 56 255
+		"TeamBlue"		"HUDBlueTeamSolid"
+		"TeamRed"		"HUDRedTeamSolid"
 		"IconColor"		"Garm3nHUDWhite"
 		"LocalPlayerColor"	"Garm3nHUDBlack"
 
 		"BaseBackgroundColor"	"0 0 0 220"
-		"LocalBackgroundColor"	"255 255 255 200"
+		"LocalBackgroundColor"	"240 240 240 200"
 	}
 
 	HudVehicle
@@ -1026,6 +1026,7 @@
 		"enabled"				"1"
 		"xpos"					"0"
 		"ypos"					"5"
+		"zpos"					"20"
 		"wide"					"f0"
 		"tall"					"480"
 	}
@@ -1037,6 +1038,7 @@
 		"enabled"				"1"
 		"xpos"					"c-225"
 		"ypos"					"250"
+		"zpos"					"20"
 		"wide"					"450"
 		"tall"					"218"
 	}
